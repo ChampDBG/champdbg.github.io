@@ -3,6 +3,7 @@ layout: post
 title: "staticmethod 與 classmethod 的差異"
 date: 2020-04-01 13:00:00 +0900
 categories: [program, Python, Transfer]
+tags: [staticmethod, classmethod, decorator, Python]
 ---
 在 Python 的 class 裡面，除了可以直接定義 method，透過添加 decorator (裝飾器)，可以定義出具有特殊功能的 method。
 

@@ -3,6 +3,7 @@ layout: post
 title:  "The days before Day 1"
 date:   2020-03-27 11:00:00 +0900
 categories: diary
+tags: [雜記]
 ---
 簡單紀錄一下這幾天看到的事情，本篇內容非常的主觀，請酌量使用(?)
 

@@ -3,6 +3,7 @@ layout: post
 title: "Cython self-Learning"
 date: 2020-04-07 21:00:00 +0900
 categories: [program, Python, Cython, self-learning]
+tags: [Python, Cython]
 ---
 Every Python user may hear that "Python is slower than other language (ex: C, C++, JAVA...)". There are three main theories to explain 
 

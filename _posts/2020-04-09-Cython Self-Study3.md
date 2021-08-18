@@ -3,6 +3,7 @@ layout: post
 title: "Cython self-Learning (3)"
 date: 2020-04-10 17:00:00 +0900
 categories: [program, Python, Cython, self-learning]
+tags: [Python, Cython]
 ---
 > If you haven't seen the previous [article](https://champdbg.github.io/program/python/cython/self-learning/Cython-Self-Study2/), it is better to read it before you read this article.
 

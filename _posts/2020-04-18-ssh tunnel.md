@@ -3,6 +3,7 @@ layout: post
 title: "ssh tunnel"
 date: 2020-04-18 15:00:00 +0900
 categories: [program, daily]
+tags: [proxy, ssh tunnel]
 ---
 
 最近中職領先全球開季，但因為版權的關係，所以國外的 IP 沒辦法收看 twitch 的轉播。想說用 VPN 就可以解決，沒想到宿舍提供的網路阻擋 VPN 的連線~~(機車)~~。原本在 JF 實驗室留的 shadowsocks 連線，也因為 server 的硬體掛掉不能使用。

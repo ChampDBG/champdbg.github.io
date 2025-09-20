@@ -23,17 +23,17 @@ repository               : "champdbg/champdbg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Tung-Cheng Wu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Pittsburgh, PA"
-  employer         : "DENSO International America, Inc."
+  employer         : "DENSO International America"
   uri              : # URL
   email            : "tung.cheng.wu@gmail.com" 
 
   # Academic websites
-  openreview       : https://openreview.net/profile?id=%7ETung-Cheng_Wu1
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=gUQJMkoAAAAJ&hl=zh-TW&authuser=1"
   inspire-hep      : # URL
@@ -43,6 +43,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  openreview       : https://openreview.net/profile?id=%7ETung-Cheng_Wu1
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -63,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/tungchengwu/"
+  linkedin         : "tungchengwu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,12 +82,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'
+  books:
+    title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Autonomouc Driving Researcher"
+title                    : "AD Researcher"
 title_separator          : "-"
-name                     : &name "Tung-Cheng Wu (Tungcheng Wu)"
+name                     : &name "Tung-Cheng Wu"
 description              : &description "Tungcheng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://champdbg.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -33,7 +33,7 @@ author:
   email            : "tung.cheng.wu@gmail.com" 
 
   # Academic websites
-  academia         : https://openreview.net/profile?id=%7ETung-Cheng_Wu1
+  openreview       : https://openreview.net/profile?id=%7ETung-Cheng_Wu1
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=gUQJMkoAAAAJ&hl=zh-TW&authuser=1"
   inspire-hep      : # URL

@@ -7,7 +7,7 @@ permalink: /publication/wu2017influences
 date: 2017-07-29
 venue: 'Cognitive Science Society'
 # slidesurl: url
-# paperurl: url
+paperurl: https://drive.google.com/file/d/0B8TXdIxvEjzPT0tmOVhfUFExQWc/view?resourcekey=0-lFcmpSEnKe3h8UQv5p_83g
 bibtexurl: /files/wu2017influences.bib
 # code: url
 ---

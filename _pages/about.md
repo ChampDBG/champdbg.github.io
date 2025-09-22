@@ -15,8 +15,8 @@ Before that, I worked in DENSO's [Global R&D Tokyo](https://www.denso.com/jp/ja/
 ## Research Interests
 I'm interested in the intesection of machine learning and motion planning. These include reinforcement learning, uncertainty quantification, and safety control.
 
-My MS theses designed new updating strategy to improve deep reinforcement learning and demostrated the applicability of my method by applying in [quadcopter navitation system](/publication/wu2018navigating) and server loading balance of [distributing network traffic](/publication/lai2020cognitive).
+My MS theses designed new updating strategy to improve deep reinforcement learning and demostrated the applicability by applying in [quadcopter navitation](/publication/wu2018navigating) and [distributing network traffic](/publication/lai2020cognitive) for server loading balance.
 
 ---
 
-Feel free to check Publications and CV for more details
+Feel free to check [Publications](/publications/) and [CV](/files/tungchew_cv.pdf) for more details
